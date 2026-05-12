@@ -1,0 +1,12 @@
+{
+    "project": "GitLearning",
+    "version": "1.0.0",
+    "files": [
+        "main.c",
+        "utils.c",
+        "utils.h",
+        "config.txt"
+    ],
+    "author": "Student",
+    "date": "2026-05-11"
+}
