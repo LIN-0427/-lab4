@@ -13,3 +13,4 @@ clean:
 
 run: $(TARGET)
 	./$(TARGET)
+abcde
