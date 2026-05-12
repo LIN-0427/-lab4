@@ -1,0 +1,18 @@
+Git Learning Notes
+==================
+
+Learning basic Git operations:
+- Creating repository
+- Adding files
+- Making commits
+- Viewing diff
+- Checking status
+- Branch management
+- Remote operations
+
+Branch operations:
+- Creating branches
+- Merging branches
+- Resolving conflicts
+- Rebasing branches
+- Deleting branches
