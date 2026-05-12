@@ -13,3 +13,4 @@ void init_person(Person *p, int id, const char *name);
 void print_person(const Person *p);
 
 #endif
+789
